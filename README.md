@@ -4,15 +4,15 @@
 ## About Me
 
 Hello! I'm Park Suah, a graduate student.
-저는 **문제를 끝까지 풀어내는 끈기와 집요함**을 강점으로 가진 연구자입니다.  
-쉽게 포기하지 않고, 어려운 문제일수록 해결 과정을 즐기며 끝까지 해내는 타입입니다. 
+I'm a researcher whose strengths lie in the persistence and tenacity to see a problem through to the end.
+I don't give up easily, and even when a problem is difficult, I enjoy the process of solving it and see it through to the end.
 
 
 ---
 
 ## 🛠 Programming Language
-- **언어**: R, Python, SAS, LaTeX
-- **분야 지식**: Streaming Data Analysis, Missing Data Imputation, Functional Principal Component Analysis(FPCA)
+- **Language**: R, Python, SAS, LaTeX
+- **Areas of interest**: Streaming Data Analysis, Missing Data Imputation, Functional Principal Component Analysis(FPCA)
 
 ---
 
